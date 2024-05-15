@@ -1,4 +1,4 @@
-# sonal_ml_model
+# sonar_ml_model
 ## Overview:
 This GitHub repository contains a machine learning model for classifying sonar signals as either a rock or a mine. The model is trained on the well-known Sonar dataset, which consists of sonar signals bounced off a metal cylinder (a mine) and a rock.
 ## Features:
